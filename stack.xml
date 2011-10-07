@@ -2,8 +2,8 @@
   <description brief="robot-dynamics">robot-dynamics</description>
   <author>Maintained by Thomas Moulard</author>
   <license>BSD</license>  
-  <review status="unreviewed" notes=""/>
+  <review status="experimenta" notes=""/>
   <url>http://ros.org/wiki/robot-dynamics</url>
   <depend stack="ros" />
-
+  <depend stack="jrl_maths"/>
 </stack>
